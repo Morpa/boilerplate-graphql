@@ -38,8 +38,8 @@
     "@graphql-codegen/cli": "1.21.7",
     "@graphql-codegen/typescript": "1.23.0",
     "@graphql-codegen/typescript-operations": "1.18.4",
-    "@storybook/addon-essentials": "6.3.2",
-    "@storybook/react": "6.3.2",
+    "@storybook/addon-essentials": "6.3.4",
+    "@storybook/react": "6.3.4",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@types/jest": "^26.0.24",
@@ -47,7 +47,7 @@
     "@types/react": "^17.0.14",
     "@types/styled-components": "^5.1.11",
     "@typescript-eslint/eslint-plugin": "^4.28.4",
-    "@typescript-eslint/parser": "^4.28.3",
+    "@typescript-eslint/parser": "^4.28.4",
     "babel-loader": "^8.2.2",
     "babel-plugin-styled-components": "^1.13.2",
     "eslint": "^7.31.0",
@@ -62,7 +62,7 @@
     "lint-staged": "^11.0.1",
     "plop": "^2.7.4",
     "prettier": "^2.3.2",
-    "storybook-addon-next-router": "^2.0.4",
+    "storybook-addon-next-router": "^3.0.5",
     "typescript": "^4.3.5"
   }
 }
