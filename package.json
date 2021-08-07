@@ -35,7 +35,7 @@
     "@babel/core": "^7.15.0",
     "@babel/preset-typescript": "^7.15.0",
     "@graphql-codegen/add": "^2.0.2",
-    "@graphql-codegen/cli": "1.21.8",
+    "@graphql-codegen/cli": "2.0.1",
     "@graphql-codegen/typescript": "2.0.0",
     "@graphql-codegen/typescript-operations": "2.0.1",
     "@storybook/addon-essentials": "6.3.6",
