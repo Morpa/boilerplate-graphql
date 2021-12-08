@@ -44,7 +44,7 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
-    "@types/node": "^16.11.11",
+    "@types/node": "^16.11.12",
     "@types/react": "^17.0.37",
     "@types/styled-components": "^5.1.16",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
@@ -61,7 +61,7 @@
     "jest": "^27.4.3",
     "jest-styled-components": "^7.0.8",
     "lint-staged": "^12.0.2",
-    "plop": "^3.0.2",
+    "plop": "^3.0.3",
     "prettier": "^2.5.0",
     "storybook-addon-next-router": "^3.0.8",
     "typescript": "^4.5.2"
