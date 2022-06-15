@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.17.8",
-    "@babel/preset-typescript": "^7.16.7",
+    "@babel/preset-typescript": "^7.17.12",
     "@graphql-codegen/add": "^3.1.1",
     "@graphql-codegen/cli": "2.6.2",
     "@graphql-codegen/typescript": "2.5.0",
@@ -62,7 +62,7 @@
     "jest-styled-components": "^7.0.8",
     "lint-staged": "^12.4.0",
     "plop": "^3.0.5",
-    "prettier": "^2.5.1",
+    "prettier": "^2.7.0",
     "storybook-addon-next-router": "^3.1.1",
     "typescript": "^4.6.3"
   }
